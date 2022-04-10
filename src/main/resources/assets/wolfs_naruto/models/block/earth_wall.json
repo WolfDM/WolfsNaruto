@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wolfs_naruto:blocks/earthblock",
+    "up": "wolfs_naruto:blocks/earthblock",
+    "north": "wolfs_naruto:blocks/earthblock",
+    "east": "wolfs_naruto:blocks/earthblock",
+    "south": "wolfs_naruto:blocks/earthblock",
+    "west": "wolfs_naruto:blocks/earthblock",
+    "particle": "wolfs_naruto:blocks/earthblock"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "mod_elements": [
+    {
+      "name": "EarthWall",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "earth_wall",
+      "path": "~/blocks"
+    },
+    {
+      "name": "Blocks",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocks",
+      "path": "~/creativeTabs"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.wolfs_naruto.earth_wall": "Earth Wall",
+      "itemGroup.tabblocks": "Blocks"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "moddles",
+        "children": []
+      },
+      {
+        "name": "clans",
+        "children": [
+          {
+            "name": "uchiha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "dojitus",
+        "children": [
+          {
+            "name": "sharinggans",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "guis",
+        "children": []
+      },
+      {
+        "name": "items",
+        "children": [
+          {
+            "name": "dna",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "jutsus",
+        "children": []
+      },
+      {
+        "name": "blocks",
+        "children": []
+      },
+      {
+        "name": "creativeTabs",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "wolfs_naruto",
+    "modName": "Wolfs Naruto",
+    "version": "1.0.0",
+    "author": "15083, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.wolfsnaruto",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
